@@ -10,3 +10,4 @@ Problem | Solution | Difficulty
 [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [c++](Easy/MergeSortedArray.cpp) | Easy
 [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [c++](Easy/IntersectionOfTwoArraysII.cpp) | Easy
 [Binary Search](https://leetcode.com/problems/binary-search/) | [c++](Easy/BinarySearch.cpp) | Easy
+[First Bad Version](https://leetcode.com/problems/first-bad-version/) | [c++](Easy/FirstBadVersion.cpp) | Easy
