@@ -1,4 +1,4 @@
-# DataStructure-I-Leet-code
+# DataStructure-Algorithms-I-LeetCode
 
 This Repository Contains my submission to Data Structure 1 Badge in Leetcode.
 
