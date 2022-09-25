@@ -11,3 +11,5 @@ Problem | Solution | Difficulty
 [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [c++](Easy/IntersectionOfTwoArraysII.cpp) | Easy
 [Binary Search](https://leetcode.com/problems/binary-search/) | [c++](Easy/BinarySearch.cpp) | Easy
 [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [c++](Easy/FirstBadVersion.cpp) | Easy
+[Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [c++](Easy/SearchInsertPosition.cpp) | Easy
+[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [c++](Easy/SquaresOfASortedArray.cpp) | Easy
