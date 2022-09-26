@@ -18,3 +18,4 @@ Problem | Solution | Difficulty
 [Ransom Note](https://leetcode.com/problems/ransom-note/) | [c++](Easy/RansomNote.cpp) | Easy
 [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [c++](Easy/ValidParentheses.cpp) | Easy
 [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [c++](Easy/RemoveLinkedListElements.cpp) | Easy
+[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [c++](Easy/ImplementQueueusingStacks.cpp) | Easy
