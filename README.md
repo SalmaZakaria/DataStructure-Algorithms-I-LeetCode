@@ -19,3 +19,5 @@ Problem | Solution | Difficulty
 [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [c++](Easy/ValidParentheses.cpp) | Easy
 [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [c++](Easy/RemoveLinkedListElements.cpp) | Easy
 [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [c++](Easy/ImplementQueueusingStacks.cpp) | Easy
+[Move Zeros](https://leetcode.com/problems/move-zeroes/) | [c++](Easy/MoveZeros.cpp) | Easy
+[Reverse String](https://leetcode.com/problems/reverse-string/) | [c++](Easy/ReverseString.cpp) | Easy
