@@ -21,3 +21,5 @@ Problem | Solution | Difficulty
 [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [c++](Easy/ImplementQueueusingStacks.cpp) | Easy
 [Move Zeros](https://leetcode.com/problems/move-zeroes/) | [c++](Easy/MoveZeros.cpp) | Easy
 [Reverse String](https://leetcode.com/problems/reverse-string/) | [c++](Easy/ReverseString.cpp) | Easy
+[Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [c++](Easy/ValidAnagram.cpp) | Easy
+[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [c++](Easy/Pascal'sTriangle.cpp) | Easy
