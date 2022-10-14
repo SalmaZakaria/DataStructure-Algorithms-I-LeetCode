@@ -23,3 +23,4 @@ Problem | Solution | Difficulty
 [Reverse String](https://leetcode.com/problems/reverse-string/) | [c++](Easy/ReverseString.cpp) | Easy
 [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [c++](Easy/ValidAnagram.cpp) | Easy
 [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [c++](Easy/Pascal'sTriangle.cpp) | Easy
+[Rotate Array](https://leetcode.com/problems/rotate-array/) | [c++](Medium/RotateArray.cpp) | Medium
