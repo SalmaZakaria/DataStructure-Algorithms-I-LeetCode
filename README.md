@@ -25,3 +25,4 @@ Problem | Solution | Difficulty
 [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [c++](Easy/Pascal'sTriangle.cpp) | Easy
 [Rotate Array](https://leetcode.com/problems/rotate-array/) | [c++](Medium/RotateArray.cpp) | Medium
 [Reverse Words in a String III](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/?envType=study-plan&id=algorithm-i) | [c++](Easy/ReverseWordsinaStringIII.cpp) | Easy
+[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [c++](Medium/TwoSumII-InputArrayIsSorted.cpp) | Medium
