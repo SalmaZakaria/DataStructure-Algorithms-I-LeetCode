@@ -26,3 +26,6 @@ Problem | Solution | Difficulty
 [Rotate Array](https://leetcode.com/problems/rotate-array/) | [c++](Medium/RotateArray.cpp) | Medium
 [Reverse Words in a String III](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/?envType=study-plan&id=algorithm-i) | [c++](Easy/ReverseWordsinaStringIII.cpp) | Easy
 [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [c++](Medium/TwoSumII-InputArrayIsSorted.cpp) | Medium
+[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [c++](Easy/BinaryTreePreorderTraversal.cpp) | Easy
+[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [c++](Easy/BinaryTreeInorderTraversal.cpp) | Easy
+[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [c++](Easy/BinaryTreePostorderTraversal.cpp) | Easy
