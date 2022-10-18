@@ -30,3 +30,6 @@ Problem | Solution | Difficulty
 [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [c++](Easy/BinaryTreeInorderTraversal.cpp) | Easy
 [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [c++](Easy/BinaryTreePostorderTraversal.cpp) | Easy
 [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [c++](Medium/MaximumSubarray.cpp) | Medium
+[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [c++](Easy/MiddleoftheLinkedList.cpp) | Easy
+[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [c++](Easy/LinkedListCycle.cpp) | Easy
+[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [c++](Easy/MergeTwoSortedLists.cpp) | Easy
