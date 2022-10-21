@@ -33,3 +33,5 @@ Problem | Solution | Difficulty
 [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [c++](Easy/MiddleoftheLinkedList.cpp) | Easy
 [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [c++](Easy/LinkedListCycle.cpp) | Easy
 [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [c++](Easy/MergeTwoSortedLists.cpp) | Easy
+[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [c++](Easy/ReverseLinkedList.cpp) | Easy
+[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [c++](Easy/RemoveDuplicatesfromSortedList.cpp) | Easy
