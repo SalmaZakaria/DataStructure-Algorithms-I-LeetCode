@@ -38,3 +38,4 @@ Problem | Solution | Difficulty
 [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) | [c++](Easy/ReshapetheMatrix.cpp) | Easy
 [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [c++](Easy/SymmetricTree.cpp) | Easy
 [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [c++](Easy/MaximumDepthofBinaryTree.cpp) | Easy
+[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [c++](Easy/SearchinaBinarySearchTree.cpp) | Easy
