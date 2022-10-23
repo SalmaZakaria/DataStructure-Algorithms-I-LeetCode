@@ -35,3 +35,6 @@ Problem | Solution | Difficulty
 [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [c++](Easy/MergeTwoSortedLists.cpp) | Easy
 [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [c++](Easy/ReverseLinkedList.cpp) | Easy
 [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [c++](Easy/RemoveDuplicatesfromSortedList.cpp) | Easy
+[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) | [c++](Easy/ReshapetheMatrix.cpp) | Easy
+[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [c++](Easy/SymmetricTree.cpp) | Easy
+[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [c++](Easy/MaximumDepthofBinaryTree.cpp) | Easy
