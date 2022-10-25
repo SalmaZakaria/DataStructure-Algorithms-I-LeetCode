@@ -32,6 +32,7 @@ Problem | Solution | Difficulty
 [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [c++](Medium/MaximumSubarray.cpp) | Medium
 [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [c++](Easy/MiddleoftheLinkedList.cpp) | Easy
 [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [c++](Easy/LinkedListCycle.cpp) | Easy
+[Path Sum](https://leetcode.com/problems/path-sum/) | [c++](Easy/PathSum.cpp) | Easy
 [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [c++](Easy/MergeTwoSortedLists.cpp) | Easy
 [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [c++](Easy/ReverseLinkedList.cpp) | Easy
 [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [c++](Easy/RemoveDuplicatesfromSortedList.cpp) | Easy
@@ -41,3 +42,6 @@ Problem | Solution | Difficulty
 [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [c++](Easy/SearchinaBinarySearchTree.cpp) | Easy
 [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [c++](Medium/BinaryTreeLevelOrderTraversal.cpp) | Medium
 [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [c++](Easy/InvertBinaryTree.cpp) | Easy
+[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | [c++](Medium/InsertintoaBinarySearchTree.cpp) | Medium
+[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [c++](Medium/ValidateBinarySearchTree.cpp.cpp) | Medium
+[Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | [c++](Easy/TwoSumIV-InputisaBST.cpp) | Easy
