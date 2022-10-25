@@ -1,6 +1,6 @@
-# DataStructure-Algorithms-I-LeetCode
+# LeetCode-Problems
 
-This Repository Contains my submission to Data Structure 1 Badge in Leetcode.
+This Repository Contains my submission to different problems on Leetcode in C++.
 
 Problem | Solution | Difficulty
 :--------------------------------------------:|:--------------------------:|:--------------------------:
