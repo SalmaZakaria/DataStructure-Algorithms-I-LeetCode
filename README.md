@@ -39,3 +39,5 @@ Problem | Solution | Difficulty
 [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [c++](Easy/SymmetricTree.cpp) | Easy
 [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [c++](Easy/MaximumDepthofBinaryTree.cpp) | Easy
 [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [c++](Easy/SearchinaBinarySearchTree.cpp) | Easy
+[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [c++](Medium/BinaryTreeLevelOrderTraversal.cpp) | Medium
+[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [c++](Easy/InvertBinaryTree.cpp) | Easy
