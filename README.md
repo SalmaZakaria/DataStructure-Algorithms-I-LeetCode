@@ -8,6 +8,16 @@ Problem | Solution | Difficulty
 [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [c++](Medium/MaximumSubarray.cpp) | Medium
 [Two Sum](https://leetcode.com/problems/two-sum/) | [c++](Easy/TwoSum.cpp) | Easy
 [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [c++](Easy/MergeSortedArray.cpp) | Easy
+[Binary Search](https://leetcode.com/problems/binary-search/) | [c++](Easy/BinarySearch.cpp) | Easy
+[First Bad Version](https://leetcode.com/problems/first-bad-version/) | [c++](Easy/FirstBadVersion.cpp) | Easy
+[Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [c++](Easy/SearchInsertPosition.cpp) | Easy
+[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [c++](Easy/SquaresOfASortedArray.cpp) | Easy
+[Move Zeros](https://leetcode.com/problems/move-zeroes/) | [c++](Easy/MoveZeros.cpp) | Easy
+[Reverse String](https://leetcode.com/problems/reverse-string/) | [c++](Easy/ReverseString.cpp) | Easy
+[Rotate Array](https://leetcode.com/problems/rotate-array/) | [c++](Medium/RotateArray.cpp) | Medium
+[Reverse Words in a String III](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/?envType=study-plan&id=algorithm-i) | [c++](Easy/ReverseWordsinaStringIII.cpp) | Easy
+[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [c++](Medium/TwoSumII-InputArrayIsSorted.cpp) | Medium
+[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [c++](Easy/MiddleoftheLinkedList.cpp) | Easy
 [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [c++](Easy/IntersectionOfTwoArraysII.cpp) | Easy
 [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [c++](Easy/BestTimetoBuyandSellStock.cpp) | Easy
 [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [c++](Easy/FirstUniqueCharacterInString.cpp) | Easy
