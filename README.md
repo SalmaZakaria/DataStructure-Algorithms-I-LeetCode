@@ -45,3 +45,4 @@ Problem | Solution | Difficulty
 [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | [c++](Medium/InsertintoaBinarySearchTree.cpp) | Medium
 [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [c++](Medium/ValidateBinarySearchTree.cpp.cpp) | Medium
 [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | [c++](Easy/TwoSumIV-InputisaBST.cpp) | Easy
+[Combinations](https://leetcode.com/problems/combinations/) | [c++](Medium/Combinations.cpp) | Easy
